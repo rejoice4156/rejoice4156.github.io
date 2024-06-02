@@ -39,7 +39,6 @@ I am an ambitious and enterprising person aspiring to become a systems administr
 - <a href="mailto:hello@solisec.org">Email Me</a>
 - <a href="https://www.linkedin.com/in/lauritskarl">LinkedIn Profile</a>
 - <a href="https://github.com/rejoice4156">GitHub Profile</a>
-- ...
 
 ### PGP Public Keys
 
