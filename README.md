@@ -4,14 +4,6 @@
 
 I am an ambitious and enterprising person aspiring to become a systems administrator. I've spent the last year and a half trying to learn as much as I can about Linux, automation systems, and networking. I see myself very clearly managing large servers, and I also currently manage several homelab servers in my spare time.
 
-## Other Stuff
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan mus luctus natoque magna habitant pulvinar vel mollis vel dolor donec. Pulvinar magnis egestas diam magnis erat morbi semper condimentum nam a placerat. Massa vitae imperdiet arcu quam gravida lorem dictum non quis ligula ligula. Metus habitant tellus ultrices risus adipiscing sociosqu convallis ad lectus arcu venenatis.
-
-Imperdiet consectetur tellus porta dolor tincidunt suspendisse rutrum vel lorem mi neque. A at nulla dui duis eros pretium fringilla donec praesent mollis sagittis. Aliquam senectus curae hac massa odio condimentum porttitor a duis ante elementum. Blandit elit tempus metus cras felis interdum consequat dignissim aliquam dignissim dignissim. Litora nulla natoque quis fusce morbi eu curabitur a suspendisse phasellus velit.
-
-Nullam cras gravida mauris posuere ac in litora rhoncus commodo hendrerit rhoncus. Curabitur ultrices mollis rhoncus luctus praesent platea neque maecenas vivamus tortor sollicitudin. Odio curae ornare egestas sodales nascetur scelerisque eu quam senectus varius rutrum. Nullam vitae odio ornare eget erat dictum amet fringilla nisl curabitur nam. Nascetur risus dapibus curabitur eleifend hac elit magnis posuere molestie porta vulputate.
-
 ## Certifications
 
 - <a href="https://www.credly.com/badges/78f5366f-f0bd-4b18-8638-91dce96caa94/public_url">LFCS: Linux Foundation Certified Systems Administrator</a>
