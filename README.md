@@ -15,10 +15,13 @@ Nullam cras gravida mauris posuere ac in litora rhoncus commodo hendrerit rhoncu
 ## Contact Me
 
 - Email: 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/lauritskarl
 - GitHub: https://github.com/rejoice4156
 - ...
 
 ### PGP Public Keys
+
+- <a href="rejoice4156_0x1D3712CB_public.asc">Primary PGP public key</a> fingerprint: 91C2 32A5 4272 B146 FB49 ED5D 9DF5 05C6 1D37 12CB
+- <a href="rejoice4156_0xE5503FD0_public.asc">Backup PGP public key</a> fingerprint: 826B 21B1 82EF 8226 AD68 B831 6774 6946 E550 3FD0
 
 ### SSH Public Keys
