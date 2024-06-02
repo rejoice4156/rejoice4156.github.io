@@ -47,3 +47,6 @@ I am an ambitious and enterprising person aspiring to become a systems administr
 - <a href="rejoice4156_0xE5503FD0_public.asc">Backup</a> | **826B 21B1 82EF 8226 AD68 B831 6774 6946 E550 3FD0**
 
 ### SSH Public Keys
+
+- <a href="id_ed25519_sk_rk_168311564+rejoice4156@users.noreply.github.com_primary">Primary</a> | **SHA256:hGHJLMiGGhKBT5vhDFGmjEUTGCvOFsF/hEokCqo3Dms**
+- <a href="id_ed25519_sk_rk_168311564+rejoice4156@users.noreply.github.com_backup">Backup</a> | **SHA256:8wqbvWbD65OMqP1DGtZzXsTggLm1er7Vzs3mCk0+28U**
