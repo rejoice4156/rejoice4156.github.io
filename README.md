@@ -1,4 +1,4 @@
-# My Personal GitHub Pages Site (in development)
+# My Personal Resume
 
 ## About Me
 
