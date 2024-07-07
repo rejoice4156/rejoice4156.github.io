@@ -6,6 +6,8 @@ I am an aspiring systems administrator with a robust foundation in Linux, automa
 
 As a System Administrator at Vanalinna Hariduskolleegium, I spent my time deploying and managing Puppet CE, transitioning infrastructure to XCP-ng, and automating processes with Ansible and Puppet. I am certified as a Linux Foundation Certified Systems Administrator (LFCS) and possess strong skills in Linux, RHEL, Ansible, Puppet, XCP-ng, and more.
 
+Currently I'm continuing my studies at TalTech's IT College to build up my foundations in computer networking, databases, and Microsoft's systems to become a well-rounded systems administrator.
+
 I am passionate about hiking in the summer and swimming during the winter season. I play chess as often as I can and enjoy reading classical science fiction and biographies.
 ## Certifications
 
