@@ -1,2 +1,2 @@
 # rejoice4156.github.io
-My personal website
+My personal page
